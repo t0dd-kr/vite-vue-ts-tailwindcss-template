@@ -13,6 +13,15 @@ Change `project-name` in `package.json` to your **PROJECT NAME**.
 
 Then, Install and Run.
 
+### For NPM
+
+```
+npm install
+npm run dev
+```
+
+### For YARN
+
 
 ```
 yarn
